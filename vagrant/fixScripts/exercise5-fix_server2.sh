@@ -1,2 +1,2 @@
 #!/bin/bash
-#add fix to exercise5-server2 here
+sudo ssh-keygen && sudo ssh-copy-id -i exit.pub vagrant@192.168.100.10

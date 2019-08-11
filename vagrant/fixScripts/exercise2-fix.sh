@@ -1,2 +1,2 @@
 #!/bin/bash
-#add fix to exercise2 here
+sudo head -n -1 /etc/hosts > /tmp/h && sudo mv /tmp/h /etc/hosts
