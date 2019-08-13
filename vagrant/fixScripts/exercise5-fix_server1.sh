@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo ssh-keygen && sudo ssh-copy-id -i exit.pub vagrant@192.168.100.11
+sudo ssh-keygen 
+#&& sudo ssh-copy-id -i exit.pub vagrant@192.168.100.11
