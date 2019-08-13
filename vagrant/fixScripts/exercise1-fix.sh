@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo /etc/init.d/networking restart
+sudo -i 
+/etc/init.d/networking restart
